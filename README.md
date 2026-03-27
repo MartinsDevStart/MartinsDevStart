@@ -90,6 +90,9 @@ A tecnologia sempre me despertou curiosidade, e acredito que o aprendizado cont√
 
 </p>
 
+<br/>
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
