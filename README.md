@@ -94,7 +94,7 @@ A tecnologia sempre me despertou curiosidade, e acredito que o aprendizado cont�
 
 <br>
 <br>
-#
+
 
 
 <picture>
@@ -105,7 +105,7 @@ A tecnologia sempre me despertou curiosidade, e acredito que o aprendizado cont�
 
 <br>
 <br>
-#
+
 
 <p align="center">
 <i>"A simplicidade é o último grau de sofisticação."</i> 
