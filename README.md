@@ -99,7 +99,7 @@ A tecnologia sempre me despertou curiosidade, e acredito que o aprendizado cont√
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph-dark.svg">
 </picture>
 
-*
+#
 
 <p align="center">
 <i>"A tecnologia move o mundo?"</i> 
