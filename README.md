@@ -61,7 +61,7 @@ A tecnologia sempre me despertou curiosidade, e acredito que o aprendizado contÃ
 />
 <img 
     align="left" 
-    alt="Csharp" 
+    alt="csharp" 
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
