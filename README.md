@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Pedro Martins
 
-**`Estudante em Front-End`**
+**`Estudante em Back-End`**
 
 Me chamo Pedro Henrique Martins, tenho 17 anos. Estudante de Desenvolvimento de Sistemas na ETEC, atualmente no primeiro semestre do curso. Estou construindo minha base técnica com foco em lógica de programação, HTML5, CSS3, JavaScript e explorando os fundamentos de desenvolvimento web.
 
