@@ -69,7 +69,8 @@ A tecnologia sempre me despertou curiosidade, e acredito que o aprendizado cont√
     src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" 
 />
 
-
+<br>
+<br>
 
 #
 
@@ -91,7 +92,8 @@ A tecnologia sempre me despertou curiosidade, e acredito que o aprendizado cont√
 
 </p>
 
-
+<br>
+<br>
 #
 
 
