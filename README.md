@@ -23,7 +23,8 @@ A tecnologia sempre me despertou curiosidade, e acredito que o aprendizado contÃ
     </a>
 </p>
 
----
+#
+
 
 ### ğŸ¤– Linguagens e Tecnologias
 
@@ -70,6 +71,7 @@ A tecnologia sempre me despertou curiosidade, e acredito que o aprendizado contÃ
 
 
 <br/>
+#
 <br/>
 
 ### ğŸ“Š EstatÃ­sticas
@@ -91,6 +93,7 @@ A tecnologia sempre me despertou curiosidade, e acredito que o aprendizado contÃ
 </p>
 
 <br/>
+#
 <br/>
 
 <picture>
