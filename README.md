@@ -108,6 +108,6 @@ A tecnologia sempre me despertou curiosidade, e acredito que o aprendizado cont�
 #
 
 <p align="center">
-<i>"A tecnologia move o mundo?"</i> 
+<i>"A simplicidade é o último grau de sofisticação."</i> 
 </p>
 
