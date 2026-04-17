@@ -87,7 +87,7 @@ A tecnologia sempre me despertou curiosidade, e acredito que o aprendizado contÃ
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;" 
-      src="(https://github-readme-stats.vercel.app/api/top-langs/?username=MartinsDevStart&layout=donut)(https://github.com/anuraghazra/github-readme-stats)"
+      src="(https://github-readme-stats.vercel.app/api/top-langs/?username=MartinsDevStart&layout=donut)"
     />
 
 
