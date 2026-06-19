@@ -79,11 +79,11 @@ A tecnologia sempre me despertou curiosidade, e acredito que o aprendizado contÃ
 />
 <img 
     align="left" 
-    alt="Eclipse" 
-    title="Eclipse"
+    alt="IntelliJ" 
+    title="IntelliJ"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
 />
 
 <br>
