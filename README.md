@@ -2,9 +2,7 @@
 
 **`Estudante em Back-End`**
 
-Me chamo Pedro Henrique Martins, tenho 17 anos. Estudante de Desenvolvimento de Sistemas na ETEC, atualmente no primeiro semestre do curso. Estou construindo minha base técnica com foco em lógica de programação, HTML5, CSS3, JavaScript e explorando os fundamentos de desenvolvimento web.
-
-A tecnologia sempre me despertou curiosidade, e acredito que o aprendizado contínuo é essencial para quem deseja crescer na área. Estou aberto a descobrir mais sobre as áreas de Front-End e Back-End ao longo do curso, para tomar uma decisão mais consciente no futuro. No momento, estou focado em evoluir tecnicamente, aprender com consistência e desenvolver meus primeiros projetos.
+Me chamo Pedro Henrique Martins, tenho 18 anos. Estudante de Desenvolvimento de Sistemas na ETEC, atualmente no terceiro semestre do curso.
 
 <p align="left">
     <a href="https://github.com/MartinsDevStart?tab=repositories&sort=stargazers">
