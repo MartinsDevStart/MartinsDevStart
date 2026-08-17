@@ -88,7 +88,7 @@ Me chamo Pedro Henrique Martins, tenho 18 anos. Estudante de Desenvolvimento de 
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=MartinsDevStart&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+      src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true"  />
 
 <img align="left" 
       alt="GitHub Stats" 
