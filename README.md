@@ -37,6 +37,14 @@ Me chamo Pedro Henrique Martins, tenho 18 anos. Estudante de Desenvolvimento de 
 />
 <img 
     align="left" 
+    alt="SpringBoot" 
+    title="SpringBoot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
     alt="MySql" 
     title="MySql"
     width="30px" 
