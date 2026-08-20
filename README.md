@@ -1,8 +1,36 @@
-# 👩🏻‍💻 Pedro Martins
+# 👋 Olá, eu sou Pedro Martins!
 
-**`Estudante em Back-End`**
+### Estudante de Desenvolvimento de Sistemas | Foco em Back-End
 
-Me chamo Pedro Henrique Martins, tenho 18 anos. Estudante de Desenvolvimento de Sistemas na ETEC, atualmente no terceiro semestre do curso.
+Sou estudante de Desenvolvimento de Sistemas e atualmente estou construindo minha base em programação com foco em Java.
+
+Tenho interesse em desenvolvimento Back-End e estou constantemente buscando transformar meus estudos em projetos práticos.
+
+### 🚀 Atualmente estudando
+
+- Java
+- Programação Orientada a Objetos
+- Lógica de Programação
+- Git e GitHub
+
+### 📚 Próximos passos
+
+Após aprofundar meus conhecimentos em Java, meu próximo objetivo é estudar:
+
+- Spring Boot
+- APIs REST
+- Docker
+- Banco de dados
+
+### 💻 Projetos
+
+Aqui você encontrará meus projetos de estudo e minha evolução como desenvolvedor.
+
+Estou construindo meu portfólio gradualmente, buscando aplicar na prática os conceitos que aprendo durante minha formação.
+
+### 🎯 Objetivo
+
+Me preparar para minha primeira oportunidade profissional em desenvolvimento de software e continuar evoluindo como desenvolvedor Back-End.
 
 <p align="left">
     <a href="https://github.com/MartinsDevStart?tab=repositories&sort=stargazers">
