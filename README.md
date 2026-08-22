@@ -6,14 +6,14 @@ Sou estudante de Desenvolvimento de Sistemas e atualmente estou construindo minh
 
 Tenho interesse em desenvolvimento Back-End e estou constantemente buscando transformar meus estudos em projetos práticos.
 
-### 🚀 Atualmente estudando
+### 🚀 Tecnologias e Ferramentas
 
 - Java
 - Programação Orientada a Objetos
 - Lógica de Programação
 - Git e GitHub
 
-### 📚 Próximos passos
+### 📚 Atualmente estudando
 
 Após aprofundar meus conhecimentos em Java, meu próximo objetivo é estudar:
 
