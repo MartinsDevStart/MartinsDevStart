@@ -73,11 +73,11 @@ Me preparar para minha primeira oportunidade profissional em desenvolvimento de 
 />
 <img 
     align="left" 
-    alt="Sql" 
-    title="Sql"
+    alt="MySql" 
+    title="MySql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
