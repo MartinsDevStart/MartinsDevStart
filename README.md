@@ -70,6 +70,14 @@ Me preparar para minha primeira oportunidade profissional em desenvolvimento de 
 />
 <img 
     align="left" 
+    alt="SpringBoot" 
+    title="SpringBoot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/springsecurity/springsecurity-original.svg" 
+/>
+<img 
+    align="left" 
     alt="MySql" 
     title="MySql"
     width="30px" 
