@@ -74,7 +74,7 @@ Me preparar para minha primeira oportunidade profissional em desenvolvimento de 
     title="SpringBoot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/springsecurity/springsecurity-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/springdata/springsdata-original.svg" 
 />
 <img 
     align="left" 
