@@ -102,11 +102,19 @@ Me preparar para minha primeira oportunidade profissional em desenvolvimento de 
 />
 <img 
     align="left" 
-    alt="PostGree" 
-    title="PostGree"
+    alt="PostgreSql" 
+    title="PostgreSql"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
 
 <br>
