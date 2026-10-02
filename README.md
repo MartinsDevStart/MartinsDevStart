@@ -12,15 +12,12 @@ Tenho interesse em desenvolvimento Back-End e estou constantemente buscando tran
 - Programação Orientada a Objetos
 - Lógica de Programação
 - Git e GitHub
-
-### 📚 Atualmente estudando
-
-Após aprofundar meus conhecimentos em Java, meu próximo objetivo é estudar:
-
 - Spring Boot
 - APIs REST
 - Docker
-- Banco de dados
+- PostGree
+- MongoDB
+
 
 ### 💻 Projetos
 
@@ -102,6 +99,14 @@ Me preparar para minha primeira oportunidade profissional em desenvolvimento de 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostGree" 
+    title="PostGree"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgree/postgree-original.svg" 
 />
 
 <br>
