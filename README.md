@@ -106,7 +106,7 @@ Me preparar para minha primeira oportunidade profissional em desenvolvimento de 
     title="PostGree"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgree/postgree-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
 <br>
